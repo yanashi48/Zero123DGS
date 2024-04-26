@@ -46,3 +46,5 @@ python render.py \
     --sparse_view_num 16 --sh_degree 2 \
     --init_pcd_name visual_hull_16 \
     --white_background --render_path
+
+#还需人为在output path中补充sparse 16.txt文件
