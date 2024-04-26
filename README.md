@@ -1,3 +1,9 @@
+#环境配置
+pip insatll -r requirements.txt
+
+#模型下载 文件夹与本项目对应
+https://huggingface.co/yanashi67/super-cool-model/tree/main
+
 #生成多视角图
 python generate2.py --ckpt ckpt/syncdreamer-pretrain.ckpt \
                    --input testset/input image \
